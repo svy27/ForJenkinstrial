@@ -1,6 +1,6 @@
 public class codetoprint{
  public static void main(String[] args){
- 
+ System.out.println("hi ");
  System.out.println("triggred by a push in git");
  }
  }
